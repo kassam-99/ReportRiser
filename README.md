@@ -113,3 +113,51 @@ Each report includes the following metadata:
 - 💻 Hostname
 - 🖥️ Operating System
 - 🛠 Custom metadata
+
+
+---
+
+## 💡 Use Cases
+
+- Logging results from data collection tools
+- Exporting scan results from network tools
+- Creating simple automated reports
+- Saving serial or sensor data
+- Making your CLI tools produce files for reports
+
+---
+
+## 🤝 Contributions
+
+Pull requests are welcome!  
+If you have suggestions or want to contribute improvements, feel free to fork and submit a PR.
+
+- Fork the repository 🔀
+- Create a new branch 🪄
+- Make your changes ✍️
+- Submit a pull request 📬
+
+---
+
+## 📜 License
+
+MIT License  
+Feel free to use, modify, and distribute. Attribution is appreciated 💖
+
+---
+
+## ✨ Author
+
+Kassam Dakhlalah  
+🧠 Cybersecurity & Robotics Engineering
+🌐 [GitHub Profile](https://github.com/kassam-99)  
+📧 Contact: kassam.dakhlalah@gmail.com
+
+---
+
+## 🐍 Requirements
+
+- Python 3.6+
+- No third-party packages needed 🎉
+
+---
